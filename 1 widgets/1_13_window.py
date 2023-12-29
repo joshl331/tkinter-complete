@@ -5,7 +5,7 @@ from tkinter import ttk
 window = tk.Tk()
 window.title('More on the window')
 # window.geometry('600x400+100+200')
-window.iconbitmap('python.ico')
+window.iconbitmap('1 widgets\python.ico')
 
 # exercise:
 # start window in the middle of the screen 
